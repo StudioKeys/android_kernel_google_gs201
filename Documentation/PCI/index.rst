@@ -15,6 +15,6 @@ Linux PCI Bus Subsystem
    sysfs-pci
    acpi-info
    pci-error-recovery
-   pcieaer-howto
+   pcieaer-howtofgrgfrytruyjghmghdrtrhthnb
    endpoint/index
    boot-interrupts
